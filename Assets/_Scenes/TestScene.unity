@@ -227,8 +227,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74e55e883893ff447b9fbf2ac00c8c8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   testString: "b\xF8llebob"
+=======
   testString: Domanian
+>>>>>>> 536c3d74451e8e7bb9deb0a77d78076cc8e1863b
   testInt: 10
 --- !u!23 &1731391229
 MeshRenderer:
