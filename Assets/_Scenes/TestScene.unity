@@ -227,7 +227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74e55e883893ff447b9fbf2ac00c8c8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  testString: Bangiku
+  testString: Domanian
   testInt: 10
 --- !u!23 &1731391229
 MeshRenderer:
