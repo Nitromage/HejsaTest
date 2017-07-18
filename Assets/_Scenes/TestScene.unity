@@ -228,6 +228,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   testString: "b\xF8llebob"
+  testString: Domanian
   testInt: 10
 --- !u!23 &1731391229
 MeshRenderer:
